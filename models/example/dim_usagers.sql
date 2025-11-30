@@ -4,7 +4,7 @@
 
 SELECT
     'AHS' AS abh_id,
-    id AS usagers_id,
+    Id AS usagers_id,
     Type_unite_id as type_usagers,
     Reference as Reference,
     Statut_Unite_Id as status_usagers,
